@@ -9,6 +9,7 @@ Visit [the official web site](https://armeria.dev/) for more information.
 <a href="https://github.com/line/armeria/pulse"><img src="https://img.shields.io/github/commit-activity/m/line/armeria.svg?label=commits" /></a>
 <a href="https://search.maven.org/search?q=g:com.linecorp.armeria%20AND%20a:armeria"><img src="https://img.shields.io/maven-central/v/com.linecorp.armeria/armeria.svg?label=version" /></a>
 <a href="https://github.com/line/armeria/commits"><img src="https://img.shields.io/github/release-date/line/armeria.svg?label=release" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhoneycindy%2Farmeria?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhoneycindy%2Farmeria.svg?type=shield"/></a>
 
 > Build a reactive microservice **at your pace**, not theirs.
 
@@ -39,3 +40,7 @@ See [the complete list of our contributors](https://github.com/line/armeria/cont
   title="Contributors"
   alt="Contributors"
 />
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhoneycindy%2Farmeria.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhoneycindy%2Farmeria?ref=badge_large)
